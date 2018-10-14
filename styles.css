@@ -1,0 +1,67 @@
+html
+{
+  background-color: orangered;
+}
+.container-fluid 
+{
+  background-color: orangered;
+  width: 100%;
+  position: relative;
+}
+#Votes
+{
+  visibility: hidden;
+  width: 22%;
+  height: 25%;
+  background-color: skyblue;
+  color: black;
+  font-size: 1.3em;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 3px solid black;
+  position: absolute;
+  bottom: 175px;
+  right: 175px;
+}
+#background
+{
+  width: 66%;
+}
+#header
+{
+  background-color: orange;
+}
+  footer {
+    background-color: orange;
+    color: white;
+    padding: 7px 20px;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+h3
+{
+  background-color: orangered;
+  color: white;
+  padding: 7px 20px;
+  margin: 10px -20px 0px -20px;
+  font-size: 2em;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+  #jumbo
+  {
+    background-color: blue;
+    color: white;
+    padding: 7px 20px;
+    margin: 10px -20px 0px -20px;
+    font-size: 4em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  img#Light 
+  {
+    width: 8%;
+    height: 25%;
+    position: absolute; bottom: 45px; right: 200px;
+  }
+
+  
